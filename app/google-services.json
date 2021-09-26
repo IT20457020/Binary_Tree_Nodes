@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725202042683",
+    "project_id": "edu-app-cff50",
+    "storage_bucket": "edu-app-cff50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725202042683:android:1e80c2d48c560a1569c11e",
+        "android_client_info": {
+          "package_name": "com.example.lecturerprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725202042683-i9goh7kpima5itp4q299a7aiqf7j2dd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbTXmWeQym7u4AGG7GBGSbKT6hIkUZX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725202042683-i9goh7kpima5itp4q299a7aiqf7j2dd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
